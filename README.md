@@ -18,7 +18,7 @@ Users should be able to:
  
 ### Screenshot
  
-![](./screenshots/qr-code-component-desktop.jpg.jpg)
+![](./screenshots/qr-code-component-desktop.jpg)
 ![](./screenshots/qr-code-component-mobile.jpg)
  
 ### Links
@@ -60,7 +60,7 @@ Os usuários devem ser capazes de:
  
 ### Capturas de tela
  
-![](./screenshots/qr-code-component-desktop.jpg.jpg)
+![](./screenshots/qr-code-component-desktop.jpg)
 ![](./screenshots/qr-code-component-mobile.jpg)
  
 ### Links
